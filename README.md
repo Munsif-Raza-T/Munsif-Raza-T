@@ -34,6 +34,7 @@
 <h1 align="center">
   ABOUT ME
   </h1>
+ <img src="https://drive.google.com/file/d/1ZyUiYs2v81Hdu5jLgGbJewtsSCA-Bzcl/view?usp=share_link"/><br>
 Welcome to my GitHub profile! I'm Munsif Raza, a data scientist and tech enthusiast with a burning passion for all things machine learning. I have a wealth of experience working with programming languages such as Java and C++, and have honed my skills in the field of machine learning and algorithms. My expertise in these areas have led me to work on some exciting projects that have been both challenging and rewarding.
 
 But my interests don't stop there, I have always been interested in self-improvement and have spent countless hours researching and experimenting with different ways to improve my physical and mental health and fitness. I believe that a healthy body and mind are crucial for achieving success in any field, and I love to share my knowledge and experience in this area with others.
