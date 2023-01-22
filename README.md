@@ -3,7 +3,7 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <div align="center">
-<h1 align="center">Hi 👋, I'm Munsif Raza</h1>
+<h1 align="center">Hello Everyone 👋, I'm Munsif Raza</h1>
 <h3 align="center">A passionate Data Scientist and Self-improvement preacher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munsif-raza-t&label=Profile%20views&color=0e75b6&style=flat" alt="munsif-raza-t" /> </p>
